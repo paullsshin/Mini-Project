@@ -64,13 +64,13 @@
                 <mxCell id="46" value="Title" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=4;" parent="1" vertex="1">
                     <mxGeometry x="580" y="320" width="220" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="47" value="Title" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=4;labelBackgroundColor=default;labelBorderColor=default;" parent="1" vertex="1">
+                <mxCell id="47" value="Flexbox Row" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=4;labelBackgroundColor=default;labelBorderColor=default;" parent="1" vertex="1">
                     <mxGeometry x="40" y="150" width="220" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="Title" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=4;" parent="1" vertex="1">
+                <mxCell id="48" value="Flexbox Column" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=4;" parent="1" vertex="1">
                     <mxGeometry x="315" y="150" width="220" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="Title" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=4;" parent="1" vertex="1">
+                <mxCell id="49" value="CSS Grid Layout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=4;" parent="1" vertex="1">
                     <mxGeometry x="580" y="150" width="220" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="50" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeColor=#000000;strokeWidth=4;align=left;" parent="1" vertex="1">
