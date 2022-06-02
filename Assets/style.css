@@ -1,0 +1,41 @@
+:root {
+    --primary: #e867edff; 
+    --light: #e0eae5ff;
+    --dark: #333940ff;
+}
+
+body {
+    background: var(--dark);
+}
+
+.title {
+    font-size: 3rem;
+    color: var(--primary);
+}
+
+.sub-heading {
+    color: var(--light);
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.snippet-container {
+    border: 3px dashed var(--light);
+    color: var(--primary);
+}
+
+.snippet {
+    background: var(--primary);
+    color: var(--light);
+}
+
+.snippet h2 {
+    font-size: 2rem;
+    border: 3px solid --light;
+    border-radius: 5px;
+}
+
+
